@@ -446,8 +446,8 @@ MIT License — See LICENSE file for details.
 
 ## 👨‍💻 Author
 
-**Zain** — Cybersecurity researcher & Windows internals enthusiast  
-[GitHub](https://github.com/zainsial866) | [Portfolio](https://zainsial.com)
+**Zain** — Cybersecurity & Windows internals enthusiast  
+[GitHub](https://github.com/zainsial866) 
 
 ---
 
@@ -455,7 +455,6 @@ MIT License — See LICENSE file for details.
 
 - **[Timestomper](https://github.com/zainsial866/timestomper)** — File timestamp manipulation
 - **[Windows Stealth Primitives](https://github.com/zainsial866)** — Advanced process injection techniques
-- **[Sentinel SOC Dashboard](https://github.com/zainsial866)** — Security operations center monitoring
 
 ---
 
